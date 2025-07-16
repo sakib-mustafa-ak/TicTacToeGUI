@@ -1,0 +1,5 @@
+- Make a folder named "jre".
+- Copy the Installed Java files from you pc (Bin,Lib,etc.)
+- Past the files in the jre folder.
+- Now run the .exe file.
+- Ignore any ERRORs.
